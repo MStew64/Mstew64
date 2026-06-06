@@ -1,6 +1,6 @@
 # Hi, I'm Michael Stewart 👋
 
-I'm a software developer with experience delivering full-stack web applications, RESTful APIs, and cloud services. I've worked across the stack — from modernizing large-scale APIs and building internal platforms at Oracle, to crafting responsive frontends with React and Angular.
+I'm a software developer with experience delivering full-stack web applications, RESTful APIs, and cloud services. I've worked across the stack — from modernizing large-scale APIs and building internal platforms at Oracle, to crafting responsive frontends with React.
 
 ---
 
